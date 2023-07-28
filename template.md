@@ -20,10 +20,7 @@
 
 ## Events
 
-## 相关新闻
-
-## 活动
-
+### Chinese
 ### Japanese
 
 ### etc.
