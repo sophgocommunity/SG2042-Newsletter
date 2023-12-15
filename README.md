@@ -2,7 +2,8 @@
 
 Weekly update for SG2042 ecosystem. RISC-V is inevitable!
 
-- Issue 021: Planned 2023-12-15
+- Issue 022: Planned 2023-12-22
+- Issue 021: [SG2042 Newsletter (2023-12-15) ](newsletters/021.md). [In Chinese (中文版)](newsletters/021.cn.md).
 - Issue 020: [SG2042 Newsletter (2023-12-08) ](newsletters/020.md). [In Chinese (中文版)](newsletters/020.cn.md).
 - Issue 019: [SG2042 Newsletter (2023-12-01) ](newsletters/019.md). [In Chinese (中文版)](newsletters/019.cn.md).
 - Issue 018: [SG2042 Newsletter (2023-11-24) ](newsletters/018.md). [In Chinese (中文版)](newsletters/018.cn.md).
