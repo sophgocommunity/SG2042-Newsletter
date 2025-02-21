@@ -2,12 +2,13 @@
 
 Weekly update for SG2042 ecosystem. RISC-V is inevitable!
 
-- Issue 080: Planned 2025-02-21
-- Issue 079: [SG2042 Newsletter (2024-02-14) ](newsletters/079.md). [In Chinese (中文版)](newsletters/079.cn.md).
-- Issue 078: [SG2042 Newsletter (2024-01-24) ](newsletters/078.md). [In Chinese (中文版)](newsletters/078.cn.md).
-- Issue 077: [SG2042 Newsletter (2024-01-17) ](newsletters/077.md). [In Chinese (中文版)](newsletters/077.cn.md).
-- Issue 076: [SG2042 Newsletter (2024-01-10) ](newsletters/076.md). [In Chinese (中文版)](newsletters/076.cn.md).
-- Issue 075: [SG2042 Newsletter (2024-01-03) ](newsletters/075.md). [In Chinese (中文版)](newsletters/075.cn.md).
+- Issue 081: Planned 2025-02-28
+- Issue 080: [SG2042 Newsletter (2025-02-21) ](newsletters/080.md). [In Chinese (中文版)](newsletters/080.cn.md).
+- Issue 079: [SG2042 Newsletter (2025-02-14) ](newsletters/079.md). [In Chinese (中文版)](newsletters/079.cn.md).
+- Issue 078: [SG2042 Newsletter (2025-01-24) ](newsletters/078.md). [In Chinese (中文版)](newsletters/078.cn.md).
+- Issue 077: [SG2042 Newsletter (2025-01-17) ](newsletters/077.md). [In Chinese (中文版)](newsletters/077.cn.md).
+- Issue 076: [SG2042 Newsletter (2025-01-10) ](newsletters/076.md). [In Chinese (中文版)](newsletters/076.cn.md).
+- Issue 075: [SG2042 Newsletter (2025-01-03) ](newsletters/075.md). [In Chinese (中文版)](newsletters/075.cn.md).
 - Issue 074: [SG2042 Newsletter (2024-12-27) ](newsletters/074.md). [In Chinese (中文版)](newsletters/074.cn.md).
 - Issue 073: [SG2042 Newsletter (2024-12-20) ](newsletters/073.md). [In Chinese (中文版)](newsletters/073.cn.md).
 - Issue 072: [SG2042 Newsletter (2024-12-13) ](newsletters/072.md). [In Chinese (中文版)](newsletters/072.cn.md).
